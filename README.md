@@ -2,3 +2,5 @@
  Repositorio curso em Video Git GitHub
 
 Repositorio criado para as aulas do curso de git e github do canal/site Curso em Video.
+
+Linha adicionada a partir do site do github.
